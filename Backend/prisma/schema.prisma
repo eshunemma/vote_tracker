@@ -1,0 +1,33 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model PoolingStations {
+  id             Int       @id @default(autoincrement())
+  station_name   String?
+  station_code   String?   @unique
+  electoral_area String?
+  phone          String?
+  name           String?
+  results        results[]
+}
+
+model Candidates {
+  id      Int       @id @default(autoincrement())
+  name    String
+  results results[]
+}
+
+model results {
+  id                 Int              @id @default(autoincrement())
+  candidate_id       Int?
+  candidate          Candidates?      @relation(fields: [candidate_id], references: [id])
+  votes              Int              @default(0)
+  pooling_station_id String?
+  poolingStation     PoolingStations? @relation(fields: [pooling_station_id], references: [station_code])
+}

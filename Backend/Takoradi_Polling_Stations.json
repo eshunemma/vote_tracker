@@ -1,0 +1,140 @@
+{
+  "pollingStations": [
+    {
+      "name": "Railways Qtrs. Lower New Tadi 1",
+      "code": "A050201",
+      "area": "Lower New Tadi"
+    },
+    {
+      "name": "Railways Qtrs. Lower New Tadi 2",
+      "code": "A050202",
+      "area": "Lower New Tadi"
+    },
+    {
+      "name": "Ghana Guam Lower New Tadi",
+      "code": "A050203",
+      "area": "Lower New Tadi"
+    },
+    {
+      "name": "Yetsiyenase ECG Sub Station New Tadi",
+      "code": "A050205",
+      "area": "Lower New Tadi"
+    },
+    {
+      "name": "ASE Park New Tadi 1",
+      "code": "A050206",
+      "area": "Lower New Tadi"
+    },
+    {
+      "name": "St. Peters Cath. Prim. Sch",
+      "code": "A050103",
+      "area": "Upper New Tadi"
+    },
+    {
+      "name": "St. Matthias Cath. Prim. Sch.",
+      "code": "A050104",
+      "area": "Upper New Tadi"
+    },
+    {
+      "name": "Lorry Park Upper New Tadi",
+      "code": "A050106",
+      "area": "Upper New Tadi"
+    },
+    {
+      "name": "Meth. Mission Upper New Tadi",
+      "code": "A050109",
+      "area": "Upper New Tadi"
+    },
+    {
+      "name": "Library New Poase Upper New Tadi",
+      "code": "A050110",
+      "area": "Upper New Tadi"
+    },
+    {
+      "name": "Market Upper New Tadi",
+      "code": "A050106",
+      "area": "Upper New Tadi"
+    },
+    {
+      "name": "Meth. Prim. Sch. Old Poase Upper New Tadi",
+      "code": "A050107",
+      "area": "Upper New Tadi"
+    },
+    {
+      "name": "Nana Baidoo Bonsu J.H.S.",
+      "code": "A050108",
+      "area": "Upper New Tadi"
+    },
+    {
+      "name": "Meth. Church Upper New Tadi 1",
+      "code": "A050101",
+      "area": "Upper New Tadi"
+    },
+    {
+      "name": "Meth. Church Upper New Tadi 2",
+      "code": "A050102",
+      "area": "Upper New Tadi"
+    },
+    {
+      "name": "Lower New Tadi Akorboam 1",
+      "code": "A050209",
+      "area": "Lower New Tadi"
+    },
+    {
+      "name": "Old Amsco",
+      "code": "A050401",
+      "area": "Amanful East"
+    },
+    {
+      "name": "Cape Coast Station",
+      "code": "A050402",
+      "area": "Amanful East"
+    },
+    {
+      "name": "CASASVA Farm R.C. Sch",
+      "code": "A050301",
+      "area": "Amanful East"
+    },
+    {
+      "name": "Sekondi Trotro Station",
+      "code": "A050302",
+      "area": "Amanful East"
+    },
+    {
+      "name": "Nyame Ye Cold Store Unichem Pharmacy",
+      "code": "A050307",
+      "area": "Amanful East"
+    },
+    {
+      "name": "Anagye Trotro Station",
+      "code": "A050308",
+      "area": "Amanful East"
+    },
+    {
+      "name": "Old District Council Office",
+      "code": "A050309",
+      "area": "Amanful East"
+    },
+    { "name": "Collins Avenue 1", "code": "A050501", "area": "Amanful West" },
+    { "name": "Collins Avenue 2", "code": "A050502", "area": "Amanful West" },
+    { "name": "Tarkwa Station", "code": "A050503", "area": "Amanful West" },
+    { "name": "Nock Chemists", "code": "A050504", "area": "Amanful West" },
+    { "name": "S.D.A. Mission", "code": "A050505", "area": "Amanful West" },
+    { "name": "Go Mango A", "code": "A050507", "area": "Amanful West" },
+    { "name": "Go Mango B", "code": "A050508", "area": "Amanful West" },
+    { "name": "31st Dec. W.M.D.C. 1A", "code": "A050701", "area": "No. 1" },
+    { "name": "31st Dec. W.M.D.C. 1B", "code": "A050702", "area": "No. 1" },
+    { "name": "31st Dec. W.M.D.C. 2A", "code": "A050703", "area": "No. 1" },
+    { "name": "31st Dec. W.M.D.C. 2B", "code": "A050704", "area": "No. 1" },
+    { "name": "Community Library", "code": "A050512", "area": "Old Adra" },
+    { "name": "Aponkye Nkakra", "code": "A050601", "area": "Old Adra" },
+    { "name": "Mankoadze 1", "code": "A050602", "area": "Old Adra" },
+    { "name": "Mankoadze 2", "code": "A050603", "area": "Old Adra" },
+    { "name": "Daavi Ama", "code": "A050604", "area": "Old Adra" },
+    { "name": "Services Primary 1", "code": "A051301", "area": "Beach Road" },
+    { "name": "Services Primary 2", "code": "A051302", "area": "Beach Road" },
+    { "name": "Atlantic", "code": "A051303", "area": "Beach Road" },
+    { "name": "GHAPOHA Hospital", "code": "A051206", "area": "Chapel Hill" },
+    { "name": "Ridge Inter. School", "code": "A051204", "area": "Chapel Hill" }
+  ]
+}

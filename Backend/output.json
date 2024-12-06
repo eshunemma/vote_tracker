@@ -1,0 +1,905 @@
+[
+  {
+    "WARD COLLATION OFFICERS ": "CONSTITUENCY NAME: TAKORADI"
+  },
+  {
+    "WARD COLLATION OFFICERS ": "N/S",
+    "__EMPTY": "ELECTORAL_WARD_AREA",
+    "__EMPTY_1": "POLLING_STATION_NAME",
+    "__EMPTY_2": "PS_CODE",
+    "__EMPTY_3": "NAME_OF_WCO",
+    "__EMPTY_4": "NEW_SIM",
+    "__EMPTY_5": "PHONE_NUMBER",
+    "__EMPTY_6": "DEVICE"
+  },
+  {
+    "WARD COLLATION OFFICERS ": 1,
+    "__EMPTY": "NEW TAKORADI UPPER",
+    "__EMPTY_1": "METH. CHURCH UPPER NEW TDI. 1",
+    "__EMPTY_2": "A050101",
+    "__EMPTY_3": "EBENEZER QUAIDOO",
+    "__EMPTY_4": 544925033,
+    "__EMPTY_5": 546068169,
+    "__EMPTY_6": "TAKEN"
+  },
+  {
+    "__EMPTY_1": "METH. CHURCH UPPER NEW TDI. 2",
+    "__EMPTY_2": "A050102",
+    "__EMPTY_3": "EBENEZER QUAIDOO",
+    "__EMPTY_4": 544925033,
+    "__EMPTY_5": 546068169,
+    "__EMPTY_6": "TAKEN"
+  },
+  {
+    "__EMPTY_1": "ST. PETERS CATH. PRIM. SCH",
+    "__EMPTY_2": "A050103",
+    "__EMPTY_3": "EBENEZER QUAIDOO",
+    "__EMPTY_4": 544925033,
+    "__EMPTY_5": 546068169,
+    "__EMPTY_6": "TAKEN"
+  },
+  {
+    "__EMPTY_1": "ST. MATTHIAS CATH. PRIM. SCH.",
+    "__EMPTY_2": "A050104",
+    "__EMPTY_3": "EBENEZER QUAIDOO",
+    "__EMPTY_4": 544925033,
+    "__EMPTY_5": 546068169,
+    "__EMPTY_6": "TAKEN"
+  },
+  {
+    "__EMPTY_1": "LORRY PARK UPPER NEW TADI",
+    "__EMPTY_2": "A050105",
+    "__EMPTY_3": "EBENEZER QUAIDOO",
+    "__EMPTY_4": 544925033,
+    "__EMPTY_5": 546068169,
+    "__EMPTY_6": "TAKEN"
+  },
+  {
+    "__EMPTY_1": "MARKET UPPETR NEW TADI.",
+    "__EMPTY_2": "A050106",
+    "__EMPTY_3": "VERONICA DONKOR  ",
+    "__EMPTY_4": 244142432,
+    "__EMPTY_5": 505784274,
+    "__EMPTY_6": "TAKEN"
+  },
+  {
+    "__EMPTY_1": "METH. PRIM. SCH.. OLD POASE UPPER NEW TADI",
+    "__EMPTY_2": "A050107",
+    "__EMPTY_3": "VERONICA DONKOR  ",
+    "__EMPTY_4": 244142432,
+    "__EMPTY_5": 505784274,
+    "__EMPTY_6": "TAKEN"
+  },
+  {
+    "__EMPTY_1": "NANA BAIDOO BONSU J.H.S.",
+    "__EMPTY_2": "A050108",
+    "__EMPTY_3": "VERONICA DONKOR  ",
+    "__EMPTY_4": 244142432,
+    "__EMPTY_5": 505784274,
+    "__EMPTY_6": "TAKEN"
+  },
+  {
+    "__EMPTY_1": "METH. MISSION UPPER NEW TADI",
+    "__EMPTY_2": "A050109",
+    "__EMPTY_3": "VERONICA DONKOR  ",
+    "__EMPTY_4": 244142432,
+    "__EMPTY_5": 505784274,
+    "__EMPTY_6": "TAKEN"
+  },
+  {
+    "__EMPTY_1": "LIBRARY NEW POASE UPPER NEW TADI",
+    "__EMPTY_2": "A050110",
+    "__EMPTY_3": "VERONICA DONKOR  ",
+    "__EMPTY_4": 244142432,
+    "__EMPTY_5": 505784274,
+    "__EMPTY_6": "TAKEN"
+  },
+  {
+    "WARD COLLATION OFFICERS ": 2,
+    "__EMPTY": "NEW TAKORADI LOWER",
+    "__EMPTY_1": "RAILWAYS QTRS. LOWER NEW TADI 1",
+    "__EMPTY_2": "A050201",
+    "__EMPTY_3": "DERICK FIIFI ANDREWS",
+    "__EMPTY_4": 247474147,
+    "__EMPTY_5": 501155366,
+    "__EMPTY_6": "TAKEN"
+  },
+  {
+    "__EMPTY_1": "RAILWAYS QTRS. LOWER NEW TADI 2",
+    "__EMPTY_2": "A050202",
+    "__EMPTY_3": "DERICK FIIFI ANDREWS",
+    "__EMPTY_4": 247474147,
+    "__EMPTY_5": 501155366,
+    "__EMPTY_6": "TAKEN"
+  },
+  {
+    "__EMPTY_1": "GHANA GUAM LOWER NEW TADI",
+    "__EMPTY_2": "A050203",
+    "__EMPTY_3": "DERICK FIIFI ANDREWS",
+    "__EMPTY_4": 247474147,
+    "__EMPTY_5": 501155366,
+    "__EMPTY_6": "TAKEN"
+  },
+  {
+    "__EMPTY_1": "YETSIYENASE ECG SUB STATION NEW TADI",
+    "__EMPTY_2": "A050205",
+    "__EMPTY_3": "DERICK FIIFI ANDREWS",
+    "__EMPTY_4": 247474147,
+    "__EMPTY_5": 501155366,
+    "__EMPTY_6": "TAKEN"
+  },
+  {
+    "__EMPTY_1": "ASE PARK NEW TADI 1",
+    "__EMPTY_2": "A050206",
+    "__EMPTY_3": "PHILIP MENSAH",
+    "__EMPTY_4": 546254955,
+    "__EMPTY_5": 595231460,
+    "__EMPTY_6": "TAKEN"
+  },
+  {
+    "__EMPTY_1": "ASE PARK NEW TADI 2",
+    "__EMPTY_2": "A050207",
+    "__EMPTY_3": "PHILIP MENSAH",
+    "__EMPTY_4": 546254955,
+    "__EMPTY_5": 595231460,
+    "__EMPTY_6": "TAKEN"
+  },
+  {
+    "__EMPTY_1": "SAILORS",
+    "__EMPTY_2": "A050208",
+    "__EMPTY_3": "PHILIP MENSAH",
+    "__EMPTY_4": 546254955,
+    "__EMPTY_5": 595231460,
+    "__EMPTY_6": "TAKEN"
+  },
+  {
+    "__EMPTY_1": "BASSAWKROM CLINIC LOWER NEW TADI",
+    "__EMPTY_2": "A050211",
+    "__EMPTY_3": "PHILIP MENSAH",
+    "__EMPTY_4": 546254955,
+    "__EMPTY_5": 595231460,
+    "__EMPTY_6": "TAKEN"
+  },
+  {
+    "__EMPTY_1": "LOWER NEW TADI AKORBOAM 1",
+    "__EMPTY_2": "A050209",
+    "__EMPTY_3": "FRANCIS COFFIE",
+    "__EMPTY_4": 241141186,
+    "__EMPTY_5": 248360435
+  },
+  {
+    "__EMPTY_1": "LOWER NEW TADI AKORBOAM 2",
+    "__EMPTY_2": "A050210",
+    "__EMPTY_3": "FRANCIS COFFIE",
+    "__EMPTY_4": 241141186,
+    "__EMPTY_5": 248360435
+  },
+  {
+    "__EMPTY_1": "NKANSA CHURCH LOWER NEW TADI",
+    "__EMPTY_2": "A050204",
+    "__EMPTY_3": "FRANCIS COFFIE",
+    "__EMPTY_4": 241141186,
+    "__EMPTY_5": 248360435
+  },
+  {
+    "WARD COLLATION OFFICERS ": 3,
+    "__EMPTY": "CASASVA FARM",
+    "__EMPTY_1": "R.C. SCH",
+    "__EMPTY_2": "A050301",
+    "__EMPTY_3": "EMMANUEL NANA ANTWI",
+    "__EMPTY_4": 240669630,
+    "__EMPTY_5": 509051864
+  },
+  {
+    "__EMPTY_1": "SEKONDI TROTRO STATION",
+    "__EMPTY_2": "A050302",
+    "__EMPTY_3": "EMMANUEL NANA ANTWI",
+    "__EMPTY_4": 240669630,
+    "__EMPTY_5": 509051864
+  },
+  {
+    "__EMPTY_1": "NYAME YE COLD STORE",
+    "__EMPTY_2": "A050303",
+    "__EMPTY_3": "EMMANUEL NANA ANTWI",
+    "__EMPTY_4": 240669630,
+    "__EMPTY_5": 509051864
+  },
+  {
+    "__EMPTY_1": "SEKONDI TROTRO STATION MOSQUE",
+    "__EMPTY_2": "A050304",
+    "__EMPTY_3": "EMMANUEL NANA ANTWI",
+    "__EMPTY_4": 240669630,
+    "__EMPTY_5": 509051864
+  },
+  {
+    "__EMPTY_1": "DRESSMAKERS AND TAILORS ASS. OFFICE",
+    "__EMPTY_2": "A050305",
+    "__EMPTY_3": "EMMANUEL NANA ANTWI",
+    "__EMPTY_4": 240669630,
+    "__EMPTY_5": 509051864
+  },
+  {
+    "__EMPTY_1": "COLUMBIA DAY CARE CENTRE",
+    "__EMPTY_2": "A050306",
+    "__EMPTY_3": "ABUBAKAR ABDUL KADIR",
+    "__EMPTY_4": 542961877,
+    "__EMPTY_5": 548265843
+  },
+  {
+    "__EMPTY_1": "UNICHEM PHARMACY",
+    "__EMPTY_2": "A050307",
+    "__EMPTY_3": "ABUBAKAR ABDUL KADIR",
+    "__EMPTY_4": 542961877,
+    "__EMPTY_5": 548265843
+  },
+  {
+    "__EMPTY_1": "ANAGYE TROTRO STATION",
+    "__EMPTY_2": "A050308",
+    "__EMPTY_3": "ABUBAKAR ABDUL KADIR",
+    "__EMPTY_4": 542961877,
+    "__EMPTY_5": 548265843
+  },
+  {
+    "__EMPTY_1": "OLD DISTRICT COUNCIL OFFICE",
+    "__EMPTY_2": "A050309",
+    "__EMPTY_3": "ABUBAKAR ABDUL KADIR",
+    "__EMPTY_4": 542961877,
+    "__EMPTY_5": 548265843
+  },
+  {
+    "WARD COLLATION OFFICERS ": 4,
+    "__EMPTY": "AMANFUL EAST",
+    "__EMPTY_1": "OLD AMSCO",
+    "__EMPTY_2": "A050401",
+    "__EMPTY_3": "FOUZIATU OSMAN SCHECK",
+    "__EMPTY_4": 541402040,
+    "__EMPTY_5": 559691241
+  },
+  {
+    "__EMPTY_1": "CAPE COAST STATION",
+    "__EMPTY_2": "A050402",
+    "__EMPTY_3": "FOUZIATU OSMAN SCHECK",
+    "__EMPTY_4": 541402040,
+    "__EMPTY_5": 559691241
+  },
+  {
+    "__EMPTY_1": "SHALOM SHALOM",
+    "__EMPTY_2": "A050403",
+    "__EMPTY_3": "FOUZIATU OSMAN SCHECK",
+    "__EMPTY_4": 541402040,
+    "__EMPTY_5": 559691241
+  },
+  {
+    "__EMPTY_1": "ABAATAN DRUG STORE",
+    "__EMPTY_2": "A050404",
+    "__EMPTY_3": "FOUZIATU OSMAN SCHECK",
+    "__EMPTY_4": 541402040,
+    "__EMPTY_5": 559691241
+  },
+  {
+    "__EMPTY_1": "KAWOANOPADO AMANFUL EAST",
+    "__EMPTY_2": "A050405",
+    "__EMPTY_3": "PETER TAWIAH ABBECKAH",
+    "__EMPTY_4": 542490965,
+    "__EMPTY_5": 272158579
+  },
+  {
+    "__EMPTY_1": "CITY COUNCIL HALL A",
+    "__EMPTY_2": "A050406",
+    "__EMPTY_3": "PETER TAWIAH ABBECKAH",
+    "__EMPTY_4": 542490965,
+    "__EMPTY_5": 272158579
+  },
+  {
+    "__EMPTY_1": "COUNCIL B",
+    "__EMPTY_2": "A050407",
+    "__EMPTY_3": "PETER TAWIAH ABBECKAH",
+    "__EMPTY_4": 542490965,
+    "__EMPTY_5": 272158579
+  },
+  {
+    "__EMPTY_1": "ALL NEEDS SUPERMARKET",
+    "__EMPTY_2": "A050408",
+    "__EMPTY_3": "PETER TAWIAH ABBECKAH",
+    "__EMPTY_4": 542490965,
+    "__EMPTY_5": 272158579
+  },
+  {
+    "__EMPTY_1": "ARABIC SCHOOL",
+    "__EMPTY_2": "A050409",
+    "__EMPTY_3": "DOMINIC ASAMOAH",
+    "__EMPTY_4": 241548115,
+    "__EMPTY_5": 243051725
+  },
+  {
+    "__EMPTY_1": "H.M. TECHNICAL A.",
+    "__EMPTY_2": "A050410",
+    "__EMPTY_3": "DOMINIC ASAMOAH",
+    "__EMPTY_4": 241548115,
+    "__EMPTY_5": 243051725
+  },
+  {
+    "__EMPTY_1": "H.M. TECHNICAL B",
+    "__EMPTY_2": "A050411",
+    "__EMPTY_3": "DOMINIC ASAMOAH",
+    "__EMPTY_4": 241548115,
+    "__EMPTY_5": 243051725
+  },
+  {
+    "WARD COLLATION OFFICERS ": 5,
+    "__EMPTY": "AMANFUL WEST",
+    "__EMPTY_1": "COLLINS AVENUE 1",
+    "__EMPTY_2": "A050501",
+    "__EMPTY_3": "ABDUL RAHMAN NURUDEEN",
+    "__EMPTY_4": 541636539,
+    "__EMPTY_5": 248247478
+  },
+  {
+    "__EMPTY_1": "COLLINS AVENUE 2",
+    "__EMPTY_2": "A050502",
+    "__EMPTY_3": "ABDUL RAHMAN NURUDEEN",
+    "__EMPTY_4": 541636539,
+    "__EMPTY_5": 248247478
+  },
+  {
+    "__EMPTY_1": "TARKWA STATION",
+    "__EMPTY_2": "A050503",
+    "__EMPTY_3": "ABDUL RAHMAN NURUDEEN",
+    "__EMPTY_4": 541636539,
+    "__EMPTY_5": 248247478
+  },
+  {
+    "__EMPTY_1": "NOCK CHEMISTS",
+    "__EMPTY_2": "A050504",
+    "__EMPTY_3": "ABDUL RAHMAN NURUDEEN",
+    "__EMPTY_4": 541636539,
+    "__EMPTY_5": 248247478
+  },
+  {
+    "__EMPTY_1": "NASSARIYA E.8A",
+    "__EMPTY_2": "A050505",
+    "__EMPTY_3": "KAFUI KOFI DZAKPASU",
+    "__EMPTY_4": 247138817,
+    "__EMPTY_5": 208598895
+  },
+  {
+    "__EMPTY_1": "S.D.A. MISSION",
+    "__EMPTY_2": "A050506",
+    "__EMPTY_3": "KAFUI KOFI DZAKPASU",
+    "__EMPTY_4": 247138817,
+    "__EMPTY_5": 208598895
+  },
+  {
+    "__EMPTY_1": "GO MANGO A",
+    "__EMPTY_2": "A050507",
+    "__EMPTY_3": "KAFUI KOFI DZAKPASU",
+    "__EMPTY_4": 247138817,
+    "__EMPTY_5": 208598895
+  },
+  {
+    "__EMPTY_1": "GO MANGO B",
+    "__EMPTY_2": "A050508",
+    "__EMPTY_3": "KAFUI KOFI DZAKPASU",
+    "__EMPTY_4": 247138817,
+    "__EMPTY_5": 208598895
+  },
+  {
+    "__EMPTY_1": "AHANTA HSE. A.W",
+    "__EMPTY_2": "A050509",
+    "__EMPTY_3": "DANIEL AFFUL",
+    "__EMPTY_4": 247711481,
+    "__EMPTY_5": 206286595
+  },
+  {
+    "__EMPTY_1": "ROBERT MENSAH A",
+    "__EMPTY_2": "A050510",
+    "__EMPTY_3": "DANIEL AFFUL",
+    "__EMPTY_4": 247711481,
+    "__EMPTY_5": 206286595
+  },
+  {
+    "__EMPTY_1": "ROBERT MENSAH B",
+    "__EMPTY_2": "A050511",
+    "__EMPTY_3": "DANIEL AFFUL",
+    "__EMPTY_4": 247711481,
+    "__EMPTY_5": 206286595
+  },
+  {
+    "__EMPTY_1": "COMMUNITY LIBRARY",
+    "__EMPTY_2": "A050512",
+    "__EMPTY_3": "DANIEL AFFUL",
+    "__EMPTY_4": 247711481,
+    "__EMPTY_5": 206286595
+  },
+  {
+    "WARD COLLATION OFFICERS ": 6,
+    "__EMPTY": "OLD ADRA.",
+    "__EMPTY_1": "APONKYE NKAKRA",
+    "__EMPTY_2": "A050601",
+    "__EMPTY_3": "ANASTASIA YANKEY",
+    "__EMPTY_4": 246501246,
+    "__EMPTY_5": 279852127
+  },
+  {
+    "__EMPTY_1": "MANKOADZE 1",
+    "__EMPTY_2": "A050602",
+    "__EMPTY_3": "ANASTASIA YANKEY",
+    "__EMPTY_4": 246501246,
+    "__EMPTY_5": 279852127
+  },
+  {
+    "__EMPTY_1": "MANKOADZE 2",
+    "__EMPTY_2": "A050603",
+    "__EMPTY_3": "ANASTASIA YANKEY",
+    "__EMPTY_4": 246501246,
+    "__EMPTY_5": 279852127
+  },
+  {
+    "__EMPTY_1": "DAAVI AMA",
+    "__EMPTY_2": "A050604",
+    "__EMPTY_3": "ANASTASIA YANKEY",
+    "__EMPTY_4": 246501246,
+    "__EMPTY_5": 279852127
+  },
+  {
+    "__EMPTY_1": "1106 AREA",
+    "__EMPTY_2": "A050605",
+    "__EMPTY_3": "FRANK ESSILFIE",
+    "__EMPTY_4": 244021148,
+    "__EMPTY_5": 247000011
+  },
+  {
+    "__EMPTY_1": "RABITO CLINIC",
+    "__EMPTY_2": "A050606",
+    "__EMPTY_3": "FRANK ESSILFIE",
+    "__EMPTY_4": 244021148,
+    "__EMPTY_5": 247000011
+  },
+  {
+    "__EMPTY_1": "11/11 OLD ADRA",
+    "__EMPTY_2": "A050607",
+    "__EMPTY_3": "FRANK ESSILFIE",
+    "__EMPTY_4": 244021148,
+    "__EMPTY_5": 247000011
+  },
+  {
+    "__EMPTY_1": "T/S NEAR ACCRA ST. 1",
+    "__EMPTY_2": "A050608",
+    "__EMPTY_3": "FRANK ESSILFIE",
+    "__EMPTY_4": 244021148,
+    "__EMPTY_5": 247000011
+  },
+  {
+    "__EMPTY_1": "T/S NEAR ACCRA ST. 2",
+    "__EMPTY_2": "A050609",
+    "__EMPTY_3": "ADAMA AWUDU",
+    "__EMPTY_4": 546504608,
+    "__EMPTY_5": 264058387
+  },
+  {
+    "__EMPTY_1": "GLAMOUR",
+    "__EMPTY_2": "A050610",
+    "__EMPTY_3": "ADAMA AWUDU",
+    "__EMPTY_4": 546504608,
+    "__EMPTY_5": 264058387
+  },
+  {
+    "__EMPTY_1": "CARLOS SUPERMARKET",
+    "__EMPTY_2": "A050611",
+    "__EMPTY_3": "ADAMA AWUDU",
+    "__EMPTY_4": 546504608,
+    "__EMPTY_5": 264058387
+  },
+  {
+    "WARD COLLATION OFFICERS ": 7,
+    "__EMPTY": "NO. 1",
+    "__EMPTY_1": "31ST DEC. W.M.D.C. 1A",
+    "__EMPTY_2": "A050701",
+    "__EMPTY_3": "EMMAUNEL DONKOR",
+    "__EMPTY_4": 543336241,
+    "__EMPTY_5": "0247590540"
+  },
+  {
+    "__EMPTY_1": "31ST DEC. W.M.D.C. 1B",
+    "__EMPTY_2": "A050702",
+    "__EMPTY_3": "EMMAUNEL DONKOR",
+    "__EMPTY_4": 543336241,
+    "__EMPTY_5": "0247590540"
+  },
+  {
+    "__EMPTY_1": "31ST DEC. W.M.D.C. 2A",
+    "__EMPTY_2": "A050703",
+    "__EMPTY_3": "EMMAUNEL DONKOR",
+    "__EMPTY_4": 543336241,
+    "__EMPTY_5": "0247590540"
+  },
+  {
+    "__EMPTY_1": "31ST DEC. W.M.D.C. 2B",
+    "__EMPTY_2": "A050704",
+    "__EMPTY_3": "FRANK ESSILFIE",
+    "__EMPTY_4": 544720066,
+    "__EMPTY_5": 542353621
+  },
+  {
+    "__EMPTY_1": "BISHOP AMISSAH J.H.S.",
+    "__EMPTY_2": "A050705",
+    "__EMPTY_3": "FRANK ESSILFIE",
+    "__EMPTY_4": 544720066,
+    "__EMPTY_5": 542353621
+  },
+  {
+    "__EMPTY_1": "HOWARD MEMORIAL SCH.",
+    "__EMPTY_2": "A050706",
+    "__EMPTY_3": "FRANK ESSILFIE",
+    "__EMPTY_4": 544720066,
+    "__EMPTY_5": 542353621
+  },
+  {
+    "WARD COLLATION OFFICERS ": 8,
+    "__EMPTY": "NO. 2",
+    "__EMPTY_1": "82/6 ESSIKAFOAMBANTEM NO. 2 TADI",
+    "__EMPTY_2": "A050801",
+    "__EMPTY_3": "SALIM M ISSAKA",
+    "__EMPTY_4": 541877733,
+    "__EMPTY_5": 243888231
+  },
+  {
+    "__EMPTY_1": "KYZZ FM TAKORADI",
+    "__EMPTY_2": "A050802",
+    "__EMPTY_3": "SALIM M ISSAKA",
+    "__EMPTY_4": 541877733,
+    "__EMPTY_5": 243888231
+  },
+  {
+    "__EMPTY_1": "RDF (POLICE RESERVE PARK)",
+    "__EMPTY_2": "A050803",
+    "__EMPTY_3": "SALIM M ISSAKA",
+    "__EMPTY_4": 541877733,
+    "__EMPTY_5": 243888231
+  },
+  {
+    "WARD COLLATION OFFICERS ": 9,
+    "__EMPTY": "PRESBY",
+    "__EMPTY_1": "PRESBY PRIMARY SCH.",
+    "__EMPTY_2": "A050901",
+    "__EMPTY_3": "ERNEST A AYAMGAH",
+    "__EMPTY_4": 549258659,
+    "__EMPTY_5": 245044259
+  },
+  {
+    "__EMPTY_1": "HARBOUR TAXI RANK",
+    "__EMPTY_2": "A050902",
+    "__EMPTY_3": "ERNEST A AYAMGAH",
+    "__EMPTY_4": 549258659,
+    "__EMPTY_5": 245044259
+  },
+  {
+    "__EMPTY_1": "PRESBY JHS",
+    "__EMPTY_2": "A050903",
+    "__EMPTY_3": "ERNEST A AYAMGAH",
+    "__EMPTY_4": 549258659,
+    "__EMPTY_5": 245044259
+  },
+  {
+    "__EMPTY_1": "BETHEL METHODIST SCH.",
+    "__EMPTY_2": "A050904",
+    "__EMPTY_3": "ERNEST A AYAMGAH",
+    "__EMPTY_4": 549258659,
+    "__EMPTY_5": 245044259
+  },
+  {
+    "__EMPTY_1": "POLICE CANTEEN",
+    "__EMPTY_2": "A050905",
+    "__EMPTY_3": "ERNEST A AYAMGAH",
+    "__EMPTY_4": 549258659,
+    "__EMPTY_5": 245044259
+  },
+  {
+    "WARD COLLATION OFFICERS ": 10,
+    "__EMPTY": "ZENITH",
+    "__EMPTY_1": "SHELL FILLING STATION 1",
+    "__EMPTY_2": "A051001",
+    "__EMPTY_3": "KWASI AMANKWAH ",
+    "__EMPTY_4": 247323777,
+    "__EMPTY_5": 271444840
+  },
+  {
+    "__EMPTY_1": "SHELL FILLING STATION 2",
+    "__EMPTY_2": "A051002",
+    "__EMPTY_3": "KWASI AMANKWAH ",
+    "__EMPTY_4": 247323777,
+    "__EMPTY_5": 271444840
+  },
+  {
+    "__EMPTY_1": "SEKONDI TAXI RANK",
+    "__EMPTY_2": "A051003",
+    "__EMPTY_3": "KWASI AMANKWAH ",
+    "__EMPTY_4": 247323777,
+    "__EMPTY_5": 271444840
+  },
+  {
+    "__EMPTY_1": "PUBLIC LIBRARY",
+    "__EMPTY_2": "A051004",
+    "__EMPTY_3": "KWASI AMANKWAH ",
+    "__EMPTY_4": 247323777,
+    "__EMPTY_5": 271444840
+  },
+  {
+    "__EMPTY_1": "FITTING SHOP",
+    "__EMPTY_2": "A051005",
+    "__EMPTY_3": "KELVIN SEPENU JASPER",
+    "__EMPTY_4": 542310650,
+    "__EMPTY_5": 557659106
+  },
+  {
+    "__EMPTY_1": "ALL SAINTS ANGLICAN 1",
+    "__EMPTY_2": "A051006",
+    "__EMPTY_3": "KELVIN SEPENU JASPER",
+    "__EMPTY_4": 542310650,
+    "__EMPTY_5": 557659106
+  },
+  {
+    "__EMPTY_1": "ALL SAINTS ANGLICAN 2",
+    "__EMPTY_2": "A051007",
+    "__EMPTY_3": "KELVIN SEPENU JASPER",
+    "__EMPTY_4": 542310650,
+    "__EMPTY_5": 557659106
+  },
+  {
+    "__EMPTY_1": "BROADCASTING",
+    "__EMPTY_2": "A051008",
+    "__EMPTY_3": "KELVIN SEPENU JASPER",
+    "__EMPTY_4": 542310650,
+    "__EMPTY_5": 557659106
+  },
+  {
+    "WARD COLLATION OFFICERS ": 11,
+    "__EMPTY": "RAILWAYS & HABOUR",
+    "__EMPTY_1": "BANK OF GHANA 1",
+    "__EMPTY_2": "A051101",
+    "__EMPTY_3": " JOHN BAPTIST BEWULMEVIELU",
+    "__EMPTY_4": 249634271,
+    "__EMPTY_5": 247907055
+  },
+  {
+    "__EMPTY_1": "BANK OF GHANA 2",
+    "__EMPTY_2": "A051102",
+    "__EMPTY_3": " JOHN BAPTIST BEWULMEVIELU",
+    "__EMPTY_4": 249634271,
+    "__EMPTY_5": 247907055
+  },
+  {
+    "__EMPTY_1": "BAPTISH CHURCH RAILWAY QTRS 1",
+    "__EMPTY_2": "A051103",
+    "__EMPTY_3": " JOHN BAPTIST BEWULMEVIELU",
+    "__EMPTY_4": 249634271,
+    "__EMPTY_5": 247907055
+  },
+  {
+    "__EMPTY_1": "BAPTISH CHURCH RAILWAY QTRS 2",
+    "__EMPTY_2": "A051104",
+    "__EMPTY_3": " JOHN BAPTIST BEWULMEVIELU",
+    "__EMPTY_4": 249634271,
+    "__EMPTY_5": 247907055
+  },
+  {
+    "__EMPTY_1": "YMCA CENTRE",
+    "__EMPTY_2": "A051105",
+    "__EMPTY_3": "DAMAKU HAMZA NABILA",
+    "__EMPTY_4": 545772898,
+    "__EMPTY_5": 249027419
+  },
+  {
+    "__EMPTY_1": "OLD SEKONDI COLLEGE",
+    "__EMPTY_2": "A051106",
+    "__EMPTY_3": "DAMAKU HAMZA NABILA",
+    "__EMPTY_4": 545772898,
+    "__EMPTY_5": 249027419
+  },
+  {
+    "__EMPTY_1": "MAIN POST OFFICE",
+    "__EMPTY_2": "A051107",
+    "__EMPTY_3": "DAMAKU HAMZA NABILA",
+    "__EMPTY_4": 545772898,
+    "__EMPTY_5": 249027419
+  },
+  {
+    "__EMPTY_1": "BETHANY CHURCH INT.",
+    "__EMPTY_2": "A051108",
+    "__EMPTY_3": "DAMAKU HAMZA NABILA",
+    "__EMPTY_4": 545772898,
+    "__EMPTY_5": 249027419
+  },
+  {
+    "WARD COLLATION OFFICERS ": 12,
+    "__EMPTY": "CHAPEL HILL",
+    "__EMPTY_1": "A.S.R. BARRACKS 1",
+    "__EMPTY_2": "A051201",
+    "__EMPTY_3": "FREDERICK BAAH",
+    "__EMPTY_4": 247672215,
+    "__EMPTY_5": 243189522
+  },
+  {
+    "__EMPTY_1": "A.S.R. BARRACKS 2",
+    "__EMPTY_2": "A051202",
+    "__EMPTY_3": "FREDERICK BAAH",
+    "__EMPTY_4": 247672215,
+    "__EMPTY_5": 243189522
+  },
+  {
+    "__EMPTY_1": "A.S.R. BARRACKS 3",
+    "__EMPTY_2": "A051203",
+    "__EMPTY_3": "FREDERICK BAAH",
+    "__EMPTY_4": 247672215,
+    "__EMPTY_5": 243189522
+  },
+  {
+    "__EMPTY_1": "RIDGE INTER. SCHOOL",
+    "__EMPTY_2": "A051204",
+    "__EMPTY_3": "ABUBAKARI AMEDU",
+    "__EMPTY_4": 544550338,
+    "__EMPTY_5": 208368827
+  },
+  {
+    "__EMPTY_1": "CHAPEL HILL PREP   SCHOOL",
+    "__EMPTY_2": "A051205",
+    "__EMPTY_3": "ABUBAKARI AMEDU",
+    "__EMPTY_4": 544550338,
+    "__EMPTY_5": 208368827
+  },
+  {
+    "__EMPTY_1": "GHAPOHA HOSPITAL",
+    "__EMPTY_2": "A051206",
+    "__EMPTY_3": "ABUBAKARI AMEDU",
+    "__EMPTY_4": 544550338,
+    "__EMPTY_5": 208368827
+  },
+  {
+    "WARD COLLATION OFFICERS ": 13,
+    "__EMPTY": "BEACH RAOD",
+    "__EMPTY_1": "SERVICES PRIMARY 1",
+    "__EMPTY_2": "A051301",
+    "__EMPTY_3": "KWESI GREEN MILLS",
+    "__EMPTY_4": 248437683,
+    "__EMPTY_5": 244837717
+  },
+  {
+    "__EMPTY_1": "SERVICES PRIMARY 2",
+    "__EMPTY_2": "A051302",
+    "__EMPTY_3": "KWESI GREEN MILLS",
+    "__EMPTY_4": 248437683,
+    "__EMPTY_5": 244837717
+  },
+  {
+    "__EMPTY_1": "ATLANTIC",
+    "__EMPTY_2": "A051303",
+    "__EMPTY_3": "KWESI GREEN MILLS",
+    "__EMPTY_4": 248437683,
+    "__EMPTY_5": 244837717
+  },
+  {
+    "__EMPTY_1": "MTN, BEACH ROAD",
+    "__EMPTY_2": "A051304",
+    "__EMPTY_3": "KWESI GREEN MILLS",
+    "__EMPTY_4": 248437683,
+    "__EMPTY_5": 244837717
+  },
+  {
+    "WARD COLLATION OFFICERS ": 14,
+    "__EMPTY": "AIRFORCE ADAKOPE",
+    "__EMPTY_1": "AIRFORCE JHS",
+    "__EMPTY_2": "A051401",
+    "__EMPTY_3": "JOHN EDEM AMUZU",
+    "__EMPTY_4": 242866768,
+    "__EMPTY_5": 556524518
+  },
+  {
+    "__EMPTY_1": "AIRFORCE CLINIC",
+    "__EMPTY_2": "A051402",
+    "__EMPTY_3": "JOHN EDEM AMUZU",
+    "__EMPTY_4": 242866768,
+    "__EMPTY_5": 556524518
+  },
+  {
+    "__EMPTY_1": "AIRFORCE PRIMARY SCH",
+    "__EMPTY_2": "A051403",
+    "__EMPTY_3": "JOHN EDEM AMUZU",
+    "__EMPTY_4": 242866768,
+    "__EMPTY_5": 556524518
+  },
+  {
+    "__EMPTY_1": "DUHOME ADAKOPE",
+    "__EMPTY_2": "A051404",
+    "__EMPTY_3": "JOHN EDEM AMUZU",
+    "__EMPTY_4": 242866768,
+    "__EMPTY_5": 556524518
+  },
+  {
+    "__EMPTY_1": "DUGAME ADAKOPE 1",
+    "__EMPTY_2": "A051405",
+    "__EMPTY_3": "JOHN EDEM AMUZU",
+    "__EMPTY_4": 242866768,
+    "__EMPTY_5": 556524518
+  },
+  {
+    "__EMPTY_1": "DUGAME ADAKOPE 2",
+    "__EMPTY_2": "A051406",
+    "__EMPTY_3": "EVANS KASU",
+    "__EMPTY_4": 544071606,
+    "__EMPTY_5": 243810323
+  },
+  {
+    "__EMPTY_1": "PRINCESS CINEMA",
+    "__EMPTY_2": "A051407",
+    "__EMPTY_3": "EVANS KASU",
+    "__EMPTY_4": 544071606,
+    "__EMPTY_5": 243810323
+  },
+  {
+    "__EMPTY_1": "BLOCK E KOKOMPE NO. 1",
+    "__EMPTY_2": "A051408",
+    "__EMPTY_3": "EVANS KASU",
+    "__EMPTY_4": 544071606,
+    "__EMPTY_5": 243810323
+  },
+  {
+    "__EMPTY_1": "BLOCK E KOKOMPE NO. 2",
+    "__EMPTY_2": "A051409",
+    "__EMPTY_3": "EVANS KASU",
+    "__EMPTY_4": 544071606,
+    "__EMPTY_5": 243810323
+  },
+  {
+    "WARD COLLATION OFFICERS ": 15,
+    "__EMPTY": "AIRPORT RIDGE",
+    "__EMPTY_1": "AIRPORT RIDGE FLAT A1",
+    "__EMPTY_2": "A051501",
+    "__EMPTY_3": "PRINCE LAWRENCE QUARTEY",
+    "__EMPTY_4": 549286024,
+    "__EMPTY_5": 508459030
+  },
+  {
+    "__EMPTY_1": "AIRPORT RIDGE FLAT A2",
+    "__EMPTY_2": "A051502",
+    "__EMPTY_3": "PRINCE LAWRENCE QUARTEY",
+    "__EMPTY_4": 549286024,
+    "__EMPTY_5": 508459030
+  },
+  {
+    "__EMPTY_1": "AIRPORT RIDGE FLAT B",
+    "__EMPTY_2": "A051503",
+    "__EMPTY_3": "PRINCE LAWRENCE QUARTEY",
+    "__EMPTY_4": 549286024,
+    "__EMPTY_5": 508459030
+  },
+  {
+    "__EMPTY_1": "METH. MIDDLE SCH. SAWMILL",
+    "__EMPTY_2": "A051504",
+    "__EMPTY_3": "ARABELLA AYITEY",
+    "__EMPTY_4": 542069614,
+    "__EMPTY_5": 247760808
+  },
+  {
+    "__EMPTY_1": "TAXI RANK AIRPORT RIDGE 1",
+    "__EMPTY_2": "A051505",
+    "__EMPTY_3": "ARABELLA AYITEY",
+    "__EMPTY_4": 542069614,
+    "__EMPTY_5": 247760808
+  },
+  {
+    "__EMPTY_1": "TAXI RANK AIRPORT RIDGE 2",
+    "__EMPTY_2": "A051506",
+    "__EMPTY_3": "ARABELLA AYITEY",
+    "__EMPTY_4": 542069614,
+    "__EMPTY_5": 247760808
+  },
+  {
+    "WARD COLLATION OFFICERS ": 16,
+    "__EMPTY": "CONSTITUENCY",
+    "__EMPTY_1": "CONSTITUENCY MONITOR",
+    "__EMPTY_2": "MONITOR",
+    "__EMPTY_3": "SAMUEL ARTHUR",
+    "__EMPTY_4": 244021148,
+    "__EMPTY_5": 244467942
+  }
+]
