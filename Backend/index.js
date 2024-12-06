@@ -13,7 +13,6 @@ app.get("/", (req, res) => {
 });
 app.get("/get-by-station/:id", async (req, res) => {
   const { id } = req.params;
-  console.log(id);
   const data = await prisma.results.findMany({
     where: {
       pooling_station_id: id,
@@ -78,7 +77,7 @@ app.put("/updateScore/:code", async (req, res) => {
   res.send("Hello, world from Express!");
 });
 
-app.post("/get-stations-by-phone/:phone", async (req, res) => {
+app.get("/get-stations-by-phone/:phone", async (req, res) => {
   const { phone } = req.params;
   const data = await prisma.poolingStations.findMany({
     where: {
