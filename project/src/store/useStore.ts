@@ -103,7 +103,7 @@ export const useStore = create<Store>()(
 );
 
 export const authenticateAgent = async (agentId: string): Promise<Agent> => {
-  const response = await axios.post(
+  const response = await axios.get(
     `${baseUrl}/get-stations-by-phone/${agentId}`
   );
   return response.data.data;
