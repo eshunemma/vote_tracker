@@ -8,7 +8,8 @@
   "type": "module",
   "scripts": {
     "generate": "npx prisma generate",
-    "start": "npm run generate && node index.js",
+    "postinstall": "npx prisma generate",
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
