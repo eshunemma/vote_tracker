@@ -18,6 +18,11 @@ app.get("/get-by-station/:id", async (req, res) => {
     where: {
       pooling_station_id: id,
     },
+    orderBy: {
+      candidate: {
+        id: "asc",
+      },
+    },
     include: {
       candidate: {
         select: {

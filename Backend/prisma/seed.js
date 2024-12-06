@@ -3,18 +3,18 @@ import { pollingStations } from "../data.js";
 const prisma = new PrismaClient();
 
 async function main() {
-  // await prisma.candidates.createMany({
-  //   data: [
-  //     {
-  //       id: 1,
-  //       name: "Lawyer Abdul",
-  //     },
-  //     {
-  //       id: 2,
-  //       name: "Lawyer Boamah",
-  //     },
-  //   ],
-  // });
+  await prisma.candidates.createMany({
+    data: [
+      {
+        id: 1,
+        name: "Abdul",
+      },
+      {
+        id: 2,
+        name: "Kobby Okyere Darko",
+      },
+    ],
+  });
 
   pollingStations.map((data) => {
     createpolling(data);
