@@ -12,6 +12,7 @@ export function LoginForm() {
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
     const agent = await authenticateAgent(agentId);
+    // console.log(agent, "agent");
 
     if (agent) {
       setCurrentAgent(agent);
@@ -38,7 +39,7 @@ export function LoginForm() {
               htmlFor="agentId"
               className="block text-sm font-medium text-gray-700"
             >
-              Agent ID
+              Agent Phone
             </label>
             <input
               id="agentId"
@@ -62,7 +63,7 @@ export function LoginForm() {
         </form>
 
         <div className="mt-6 text-center text-sm text-gray-600">
-          <p>Demo Agent IDs: AGT001, AGT002</p>
+          <p>Demo Agent Phones: 2486954125, 508421548</p>
         </div>
       </div>
     </div>

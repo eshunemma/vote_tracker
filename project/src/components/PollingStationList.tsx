@@ -6,7 +6,10 @@ import { useStore } from "../store/useStore";
 export function PollingStationList() {
   const navigate = useNavigate();
   const currentAgent = useStore((state) => state.currentAgent);
-  console.log(currentAgent, "asdadas");
+
+  const handleClick = () => {
+    navigate("/all-results");
+  };
 
   if (!currentAgent) {
     navigate("/");
@@ -24,7 +27,13 @@ export function PollingStationList() {
               </h1>
               <p className="text-gray-600">Your assigned polling stations</p>
             </div>
-            <ClipboardList className="h-8 w-8 text-blue-600" />
+            <div
+              className="flex flex-col items-center hover:cursor-pointer"
+              onClick={handleClick}
+            >
+              <ClipboardList className="h-8 w-8 text-blue-600" />
+              <p>View All Results</p>
+            </div>
           </div>
         </div>
 

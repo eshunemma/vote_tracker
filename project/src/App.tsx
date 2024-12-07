@@ -5,6 +5,7 @@ import { PollingStationList } from "./components/PollingStationList";
 import { VoteCountForm } from "./components/VoteCountForm";
 import { AuthGuard } from "./components/guards/AuthGuard";
 import { AppLayout } from "./components/layout/AppLayout";
+import ResultPage from "./components/ResultPage";
 
 function App() {
   return (
@@ -24,6 +25,14 @@ function App() {
           element={
             <AppLayout>
               <VoteCountForm />
+            </AppLayout>
+          }
+        />
+        <Route
+          path="/all-results"
+          element={
+            <AppLayout>
+              <ResultPage />
             </AppLayout>
           }
         />
