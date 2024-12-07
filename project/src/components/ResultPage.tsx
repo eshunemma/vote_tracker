@@ -18,7 +18,6 @@ const ResultPage = () => {
     getData();
   }, []);
 
-  // State for search inputs
   const [searchStation, setSearchStation] = useState("");
   const [filterPhone, setFilterPhone] = useState("");
   const [currentPage, setCurrentPage] = useState(1);
@@ -27,6 +26,9 @@ const ResultPage = () => {
 
   const itemsPerPage = 20;
   const adminCode = "12345"; // Replace with your secret admin code
+
+  // Calculate total votes for percentage calculation
+  const totalVotes = results.reduce((sum, item) => sum + item.votes, 0);
 
   // Filter the data based on search inputs
   const filteredData = results.filter((item) => {
@@ -39,10 +41,19 @@ const ResultPage = () => {
     return stationMatch && phoneMatch;
   });
 
-  // Calculate the total votes for each candidate in the filtered data
+  // Calculate the total votes and percentages for each candidate
   const partyTotals = filteredData.reduce((acc, entry) => {
     const candidateName = entry.candidate.name;
     acc[candidateName] = (acc[candidateName] || 0) + entry.votes;
+    return acc;
+  }, {});
+
+  // Calculate percentages
+  const partyPercentages = Object.keys(partyTotals).reduce((acc, candidate) => {
+    const percentage = totalVotes
+      ? ((partyTotals[candidate] / totalVotes) * 100).toFixed(2)
+      : 0;
+    acc[candidate] = percentage;
     return acc;
   }, {});
 
@@ -133,7 +144,8 @@ const ResultPage = () => {
         <ul className="list-disc ml-6">
           {Object.entries(partyTotals).map(([candidateName, totalVotes]) => (
             <li key={candidateName} className="text-gray-700">
-              <strong>{candidateName}:</strong> {totalVotes} votes
+              <strong>{candidateName}:</strong> {totalVotes} votes (
+              {partyPercentages[candidateName]}%)
             </li>
           ))}
         </ul>
